@@ -1,0 +1,4 @@
+{
+  "extends": ["@cesarmc/eslint-config"],
+  "ignorePatterns": ["babel.config.js", "metro.config.js", "webpack.config.js"]
+}
