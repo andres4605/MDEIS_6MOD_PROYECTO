@@ -1,0 +1,17 @@
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\bin\Debug\net8.0\ECommerce.Ordering.Infrastructure.deps.json
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\bin\Debug\net8.0\ECommerce.Ordering.Infrastructure.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\bin\Debug\net8.0\ECommerce.Ordering.Infrastructure.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\bin\Debug\net8.0\ECommerce.Ordering.Application.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\bin\Debug\net8.0\ECommerce.Ordering.Domain.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\bin\Debug\net8.0\ECommerce.Ordering.Application.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\bin\Debug\net8.0\ECommerce.Ordering.Domain.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ECommerce.Ordering.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ECommerce.Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ECommerce.Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ECommerce.Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ECommerce.Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ECommerc.D9020ED0.Up2Date
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ECommerce.Ordering.Infrastructure.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\refint\ECommerce.Ordering.Infrastructure.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ECommerce.Ordering.Infrastructure.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Infrastructure\obj\Debug\net8.0\ref\ECommerce.Ordering.Infrastructure.dll

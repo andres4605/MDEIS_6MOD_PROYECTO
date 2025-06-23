@@ -1,0 +1,11 @@
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\bin\Debug\net8.0\ECommerce.Ordering.Domain.deps.json
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\bin\Debug\net8.0\ECommerce.Ordering.Domain.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\bin\Debug\net8.0\ECommerce.Ordering.Domain.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\obj\Debug\net8.0\ECommerce.Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\obj\Debug\net8.0\ECommerce.Ordering.Domain.AssemblyInfoInputs.cache
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\obj\Debug\net8.0\ECommerce.Ordering.Domain.AssemblyInfo.cs
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\obj\Debug\net8.0\ECommerce.Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\obj\Debug\net8.0\ECommerce.Ordering.Domain.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\obj\Debug\net8.0\refint\ECommerce.Ordering.Domain.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\obj\Debug\net8.0\ECommerce.Ordering.Domain.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Domain\obj\Debug\net8.0\ref\ECommerce.Ordering.Domain.dll

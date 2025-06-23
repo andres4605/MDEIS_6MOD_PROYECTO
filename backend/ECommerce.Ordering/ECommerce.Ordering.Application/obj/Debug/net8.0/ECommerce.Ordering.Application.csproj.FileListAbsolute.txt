@@ -1,0 +1,15 @@
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\bin\Debug\net8.0\ECommerce.Ordering.Application.deps.json
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\bin\Debug\net8.0\ECommerce.Ordering.Application.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\bin\Debug\net8.0\ECommerce.Ordering.Application.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\bin\Debug\net8.0\ECommerce.Ordering.Domain.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\bin\Debug\net8.0\ECommerce.Ordering.Domain.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ECommerce.Ordering.Application.csproj.AssemblyReference.cache
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ECommerce.Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ECommerce.Ordering.Application.AssemblyInfoInputs.cache
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ECommerce.Ordering.Application.AssemblyInfo.cs
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ECommerce.Ordering.Application.csproj.CoreCompileInputs.cache
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ECommerc.23F92E75.Up2Date
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ECommerce.Ordering.Application.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\refint\ECommerce.Ordering.Application.dll
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ECommerce.Ordering.Application.pdb
+C:\Users\jpesoa\source\repos\ECommerce.Ordering\ECommerce.Ordering.Application\obj\Debug\net8.0\ref\ECommerce.Ordering.Application.dll
